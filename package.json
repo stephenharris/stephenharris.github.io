@@ -1,0 +1,11 @@
+{
+  "name": "stephenharris.info",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cssmin": "./node_modules/cssmin/bin/cssmin style.css > style.min.css"
+  },
+  "devDependencies": {
+    "cssmin": "^0.4.3"
+  }
+}
